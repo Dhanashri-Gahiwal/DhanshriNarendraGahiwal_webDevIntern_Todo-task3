@@ -51,7 +51,7 @@
       ?> 
 
       <div class="row">
-        <div class="col-md-8 col-sm-6 title mb-3">
+        <div class="col-md-8 col-sm-6 mb-3">
 
           <!-- display tasks -->
           <?php     
